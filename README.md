@@ -20,7 +20,7 @@ A Python tool for fetching and reporting devices vulnerable to specific CVEs fro
 
 1. Clone this repository:
    ```
-   git clone git@github.com:fgravato/lookoutcve.git
+   git clone https://github.com/fgravato/lookoutcve.git
    cd lookout-mes-cve-reporter
    ```
 
