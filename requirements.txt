@@ -1,0 +1,5 @@
+requests
+python-dotenv
+# PySimpleGUI installation instructions:
+# python3 -m pip install --upgrade --extra-index-url https://PySimpleGUI.net/install PySimpleGUI
+PySimpleGUI
